@@ -37,7 +37,7 @@ pip install pandas
 Run the analysis:
 python analyzer.py
 The report will be saved as report.csv.
-
+```
 Example Output:
 
 Average marks per subject:
@@ -54,7 +54,7 @@ Science: Arjun (95)
 
 1. Save this content as `README.md` in your project folder.  
 2. In PowerShell, run:
-
+```
 ```powershell
 git add README.md
 git commit -m "Add clean README for Student Marks Analyzer"
