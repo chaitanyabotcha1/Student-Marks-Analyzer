@@ -18,7 +18,7 @@ A Python project to analyze student marks from a CSV file, save the data to a SQ
 - SQLite3
 
 ## Project Structure
-
+'''
 Student-Marks-Analyzer/
 │
 ├── analyzer.py # Main script to run
@@ -26,7 +26,7 @@ Student-Marks-Analyzer/
 ├── report.csv # Generated report
 ├── students.db # SQLite database
 └── README.md # Project documentation
-
+'''
 
 
 ## How to Run
