@@ -27,25 +27,19 @@ Student-Marks-Analyzer/
 ├── students.db # SQLite database
 └── README.md # Project documentation
 
-markdown
-Copy code
+
 
 ## How to Run
 
 1. Make sure you have Python 3 installed.
 2. Install required libraries (if not already):
-```bash
 pip install pandas
 Run the analysis:
-
-bash
-Copy code
 python analyzer.py
 The report will be saved as report.csv.
 
-Example Output
-yaml
-Copy code
+Example Output:
+
 Average marks per subject:
 English: 80.67
 Math: 84.75
